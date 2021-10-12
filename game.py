@@ -1,3 +1,5 @@
+from import random
+
 quiz = {
     1 : {
         "question" : "What is the first name of Iron Man?",
